@@ -1,0 +1,10 @@
+package com.eazybytes.model;
+
+import javax.persistence.Entity;
+import javax.persistence.*;
+
+@Entity
+@Table 
+public class AccountTransactions {
+
+}
