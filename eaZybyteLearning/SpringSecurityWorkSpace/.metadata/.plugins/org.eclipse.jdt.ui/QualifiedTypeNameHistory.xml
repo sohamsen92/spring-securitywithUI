@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.config.EnableJpaRepositories"/>
-    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.domain.EntityScan"/>
-    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
-    <fullyQualifiedTypeName name="org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
     <fullyQualifiedTypeName name="com.eazybytes.repository.CustomerRepository"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
@@ -60,4 +55,9 @@
     <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="com.eazybytes.filter.JWTTokenGeneratorFilter"/>
     <fullyQualifiedTypeName name="com.eazybytes.filter.JWTTokenValidatorFilter"/>
+    <fullyQualifiedTypeName name="org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity"/>
+    <fullyQualifiedTypeName name="org.springframework.security.access.prepost.PreAuthorize"/>
+    <fullyQualifiedTypeName name="org.springframework.security.access.prepost.PostAuthorize"/>
+    <fullyQualifiedTypeName name="org.springframework.security.access.prepost.PreFilter"/>
+    <fullyQualifiedTypeName name="org.springframework.security.access.prepost.PostFilter"/>
 </qualifiedTypeNameHistroy>
